@@ -1,6 +1,57 @@
 body {
-    background-color: hotpink;
+    background-color: #40823e;
     color: whitesmoke;
     text-align: center;
     font-family: "Courier 10 Pitch", monospace;
+}
+.boxing{
+    border:5px dotted violet;
+    padding: 30px;
+    margin: auto;
+    background-color: #EE4266;
+    height:auto;
+    color: #C6DABF;
+    padding-left:0px;
+    width: 85%;
+}
+.link{
+    text-decoration:none;
+    color: #C6DABF;
+}
+.heading{
+    margin:auto;
+    margin-top: 40px;
+}
+.button{
+    display: block;
+    background-color: #540D6E;
+    border:5px solid black;
+    margin: 10px auto;
+    padding: 20px;
+    width: 100px;
+    
+}
+.eye{
+    display:inline-block;
+    background-color:black;
+    padding:50px;
+    margin:300px ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+.inner_eye{
+    display:inline-block;
+    background-color:white;
+    margin-right:-30px;
+    margin-top: -40px;
+    padding:20px;
+}
+.tooth{
+    margin: 100px;
+    background-color:white;
+    padding:30px;
+}
+.left{
+    margin-right: 4%;
 }
